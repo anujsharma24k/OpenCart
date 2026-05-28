@@ -1,0 +1,13 @@
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\pageObject\HomePage.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\pageObject\LoginPage.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\pageObject\ProductDetailPage.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\pageObject\SignUpAccountInfoPage.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\pageObject\SignUpPage.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\testBase\BaseClassPageObject.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\testBase\BaseClassTests.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\testCases\LoginTests.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\testCases\TC01_UserRegistration.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\testCases\ViewProductDetail.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\utilities\DataProviders.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\utilities\ExcelUtility.java
+D:\Jabbrrbox_Automation\Jabbrrbox_Web\src\test\java\utilities\ListenerUtilitiesManager.java
