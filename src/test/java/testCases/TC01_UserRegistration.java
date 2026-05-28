@@ -38,12 +38,12 @@ public class TC01_UserRegistration extends BaseClassTests {
 		FirstName = fr.name().firstName();
 		signup.fillRegisterFormData(FirstName, FirstName+RandomStringUtils.randomAlphanumeric(4)+"@yopmail.com");
 		signup.clickSignUpButton();
-		Assert.assertEquals(signup.getAccountInfoPageTitle().toLowerCase(), "ENTER ACCOUNT INFORMATION11".toLowerCase());
+		Assert.assertEquals(signup.getAccountInfoPageTitle().toLowerCase(), "ENTER ACCOUNT INFORMATION".toLowerCase());
 		
 		
 	}
 	
-	//@Test(priority=2, groups = {"regression"})
+	@Test(priority=2, groups = {"regression"})
 	public void addAccountInfoAndAccountCreation()
 	{
 		try {
@@ -61,7 +61,7 @@ public class TC01_UserRegistration extends BaseClassTests {
 		}
 	}
 	
-	//@Test(priority=3, groups = {"regression"})
+	@Test(priority=3, groups = {"regression"})
 	public void navigateToDashboard()
 	{
 		logger.info("**** navigateToDashboard Started******");

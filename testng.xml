@@ -15,8 +15,8 @@
 
 		<groups>
 			<run>
-				<!--<include name="sanity"></include>-->
-				<include name="regression"></include>
+				<include name="sanity"></include>
+				<!--<include name="regression"></include>-->
 			</run>
 		</groups>
 
